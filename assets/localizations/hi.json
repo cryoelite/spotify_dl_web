@@ -1,0 +1,20 @@
+{
+  "Language_code": "HI",
+  "Spotify_Music_Downloader": "Spotify संगीत डाउनलोडर",
+  "Simple_Download": "सरल डाउनलोड",
+  "Manual_Download": "मैनुअल डाउनलोड",
+  "Select_Prefs": "कस्टम तर्कों की किसी भी संख्या को चुनें और परिभाषित करें।",
+  "Made_Info": "Made in Flutter by cryo._",
+  "About": "के बारे में",
+  "Custom_Prefs": "कस्टम वरीयताएँ:",
+  "Extra_Query": "अतिरिक्त प्रश्न",
+  "Saved_Tracks": "सहेजे गए ट्रैक?",
+  "Saved_Playlists": "सहेजी गई प्लेलिस्ट?",
+  "Saved_Albums": "सहेजे गए एल्बम?",
+  "Username": "उपयोगकर्ता नाम",
+  "Password": "पासवर्ड",
+  "Cookie_File": "कुकी फ़ाइल",
+  "Title": "Spotify-DL",
+  "Github": "Github",
+  "Language": "भाषा"
+}

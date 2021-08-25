@@ -1,0 +1,20 @@
+{
+  "Language_code": "EN",
+  "Spotify_Music_Downloader": "Spotify Music Downloader",
+  "Simple_Download": "Simple Download",
+  "Manual_Download": "Manual Download",
+  "Select_Prefs": "Select and define any number of custom arguments.",
+  "Made_Info": "Made in Flutter by cryo._",
+  "About": "About",
+  "Custom_Prefs": "Custom Preferences:",
+  "Extra_Query": "Extra Query",
+  "Saved_Tracks": "Saved Tracks ?",
+  "Saved_Playlists": "Saved Playlists ?",
+  "Saved_Albums": "Saved Albums ?",
+  "Username": "Username",
+  "Password": "Password",
+  "Cookie_File": "Cookie File",
+  "Title":"Spotify-DL",
+  "Github":"Github",
+  "Language":"Language"
+}

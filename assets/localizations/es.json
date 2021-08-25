@@ -1,0 +1,21 @@
+{
+  "Language_code": "ES",
+  "Spotify_Music_Downloader": "Descargador de música de Spotify",
+  "Simple_Download": "Descarga simple",
+  "Manual_Download": "Descargar manual",
+  "Select_Prefs": "Seleccione y defina cualquier número de argumentos personalizados.",
+  "Made_Info": "Hecho en Flutter por cryo._",
+  "About": "Sobre",
+  "Custom_Prefs": "Preferencias personalizadas:",
+  "Extra_Query": "Consulta adicional",
+  "Saved_Tracks": "¿Pistas guardadas?",
+  "Saved_Playlists": "Listas de reproducción guardadas ?",
+  "Saved_Albums": "¿Álbumes guardados?",
+  "Username": "Nombre de usuario",
+  "Password": "Contraseña",
+  "Cookie_File": "Archivo de cookies",
+  "Title": "Spotify-DL",
+  "Github": "Github",
+  "Language":"Idioma"
+
+}
