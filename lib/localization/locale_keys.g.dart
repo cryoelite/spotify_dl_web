@@ -19,5 +19,6 @@ abstract class  LocaleKeys {
   static const Title = 'Title';
   static const Github = 'Github';
   static const Language = 'Language';
+  static const Enter_URL = 'Enter_URL';
 
 }

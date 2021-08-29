@@ -32,7 +32,8 @@ class CodegenLoader extends AssetLoader{
   "Cookie_File": "Cookie File",
   "Title": "Spotify-DL",
   "Github": "Github",
-  "Language": "Language"
+  "Language": "Language",
+  "Enter_URL": "Enter a Spotify URL"
 };
 static const Map<String,dynamic> es = {
   "Language_code": "ES",
@@ -52,7 +53,8 @@ static const Map<String,dynamic> es = {
   "Cookie_File": "Archivo de cookies",
   "Title": "Spotify-DL",
   "Github": "Github",
-  "Language": "Idioma"
+  "Language": "Idioma",
+  "Enter_URL": "Ingrese una URL de Spotify"
 };
 static const Map<String,dynamic> hi = {
   "Language_code": "HI",
@@ -72,7 +74,8 @@ static const Map<String,dynamic> hi = {
   "Cookie_File": "कुकी फ़ाइल",
   "Title": "Spotify-DL",
   "Github": "Github",
-  "Language": "भाषा"
+  "Language": "भाषा",
+  "Enter_URL": "Spotify URL दर्ज करें"
 };
 static const Map<String, Map<String,dynamic>> mapLocales = {"en": en, "es": es, "hi": hi};
 }

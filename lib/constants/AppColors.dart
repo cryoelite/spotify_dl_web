@@ -6,6 +6,7 @@ class AppColors {
   static const colorDarkGrey = Color(0xff4A494B);
   static const colorPink = Color(0xffFC5271);
   static const colorMediumDarkGrey = Color(0xff707070);
+  static const colorYellow = Color(0xffFFC148);
 
   static MaterialColor createMaterialColor(Color color) {
     List strengths = <double>[.05];

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:spotify_dl_web/app/InitializeApp/viewmodels/KeyStateViewModel.dart';
-import 'package:spotify_dl_web/app/common/viewmodels/LanguageButtonViewModel.dart';
+import 'package:spotify_dl_web/app/home/widgets/viewmodels/LanguageButtonViewModel.dart';
 import 'package:spotify_dl_web/constants/SupportedLocales.dart';
 import 'package:easy_localization/easy_localization.dart';
 import 'package:spotify_dl_web/localization/locale_keys.g.dart';
@@ -20,7 +20,7 @@ class LanguageButton extends StatelessWidget {
         child: Text(
           locale.languageCode.toUpperCase(),
           style: Theme.of(context).textTheme.headline2?.copyWith(
-                fontSize: 10,
+                fontSize: height * 0.4,
               ),
         ),
         value: locale,
@@ -55,12 +55,12 @@ class LanguageButton extends StatelessWidget {
             Text(
               context.locale.languageCode.toUpperCase(),
               style: Theme.of(context).textTheme.headline2?.copyWith(
-                    fontSize: 10,
+                    fontSize: height * 0.4,
                   ),
             ),
             Icon(
               Icons.arrow_drop_down_sharp,
-              size: 13,
+              size: 20,
             ),
           ],
         ),

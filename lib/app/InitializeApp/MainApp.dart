@@ -11,7 +11,7 @@ class MainApp extends ConsumerWidget {
   @override
   Widget build(BuildContext context, ScopedReader watch) {
     final watchKeyState = watch(keyStateProvider);
-  
+
     return KeyedSubtree(
       key: watchKeyState,
       child: MaterialApp(
@@ -27,10 +27,10 @@ class MainApp extends ConsumerWidget {
             minWidth: 480,
             defaultScale: true,
             breakpoints: [
-              ResponsiveBreakpoint.autoScale(480, name: MOBILE),
+              ResponsiveBreakpoint.resize(480, name: MOBILE),
               ResponsiveBreakpoint.resize(600, name: MOBILE),
               ResponsiveBreakpoint.resize(850, name: TABLET),
-              ResponsiveBreakpoint.autoScale(1080, name: DESKTOP),
+              ResponsiveBreakpoint.resize(1080, name: DESKTOP),
             ],
           );
         },
@@ -38,7 +38,7 @@ class MainApp extends ConsumerWidget {
           backgroundColor: AppColors.colorWhite,
           textSelectionTheme: TextSelectionThemeData(
             cursorColor: AppColors.colorDarkGrey,
-            selectionColor: AppColors.colorPink,
+            selectionColor: AppColors.colorYellow,
           ),
           textTheme: TextTheme(
             headline3: TextStyle(

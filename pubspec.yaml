@@ -19,6 +19,8 @@ dependencies:
   google_fonts: ^2.1.0
   responsive_framework: ^0.1.4
   url_launcher: ^6.0.9
+  lottie: ^1.1.0
+  just_audio: ^0.9.7
 
 dev_dependencies:
   flutter_test:

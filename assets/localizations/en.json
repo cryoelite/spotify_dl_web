@@ -16,5 +16,6 @@
   "Cookie_File": "Cookie File",
   "Title":"Spotify-DL",
   "Github":"Github",
-  "Language":"Language"
+  "Language":"Language",
+  "Enter_URL":"Enter a Spotify URL"
 }
